@@ -49,7 +49,7 @@ Here are some of the skills I've developed:
 I'm always open to collaborating on interesting projects and discussing new ideas. Feel free to reach out to me via email or connect with me on LinkedIn.
 
 - **Email:** [chahbaniyesmine@gmail.com](mailto:chahbaniyesmine@gmail.com)
-- **LinkedIn:** [https://linkedin.com/in/johndoe]([https://linkedin.com/in/johndoe](https://www.linkedin.com/in/yasmine-chahbani-1aa13124b/))
+- **LinkedIn:** [https://linkedin.com/in/johndoe](https://www.linkedin.com/in/yasmine-chahbani-1aa13124b/)
 
 
 Thank you for visiting my GitHub profile! Have a great day! 😄
