@@ -26,14 +26,14 @@ Here are some of the projects I've been working on:
 
 - **Technologies:** HTML, CSS, JavaScript, React
 - **Year:** 2023-ongoing
-- **Repository:** [Link to the repository]([https://github.com/yasminechahbani/binomi](https://github.com/azzizkhayat/Projetweb))
+- **Repository:** [Link to the repository](https://github.com/azzizkhayat/Projetweb)
 
 ### Project 3: XTV
 - **Description:**   XTV is a sophisticated desktop application developed in C++ using the Qt framework, designed for smart TV channel management. The application features advanced AI-driven modules that enhance user interaction by enabling smart menu navigation through camera and finger gesture recognition. XTV aims to offer an intuitive and seamless TV viewing experience by allowing users to control channels and access features with natural gestures. This project contributes to the advancement of smart technologies and digital inclusivity, addressing Sustainable Development Goals (SDGs) 11 (Sustainable Cities and Communities) and 8 (Decent Work and Economic Growth).
 
 - **Technologies:** C++, Qt,Python
 - **Year:** 2023-2024
-- **Repository:** [Link to the repository]([https://github.com/yasminechahbani/xtv](https://github.com/yasminechahbani/SmartTvChannelManagement))
+- **Repository:** [Link to the repository](https://github.com/yasminechahbani/SmartTvChannelManagement)
 
 ## Skills
 
@@ -49,7 +49,7 @@ Here are some of the skills I've developed:
 I'm always open to collaborating on interesting projects and discussing new ideas. Feel free to reach out to me via email or connect with me on LinkedIn.
 
 - **Email:** [chahbaniyesmine@gmail.com](mailto:chahbaniyesmine@gmail.com)
-- **LinkedIn:** [https://linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
+- **LinkedIn:** [https://linkedin.com/in/johndoe]([https://linkedin.com/in/johndoe](https://www.linkedin.com/in/yasmine-chahbani-1aa13124b/))
 
 
 Thank you for visiting my GitHub profile! Have a great day! 😄
