@@ -15,22 +15,25 @@ Hi there! 👋 I'm Yasmine Chahbani. Welcome to my GitHub profile! Here, you'll 
 Here are some of the projects I've been working on:
 
 ### Project 1: Stranded
-- **Description:** An SDL game in C on Linux about a rich businessman who gets washed ashore by the revenge of the four gods of Wind, Ocean, Forage, and the Goddess Mother Earth. His goal is to overcome challenges, restore, and clean his environment. As a billionaire of the number one company that pollutes, this project targeted SDGs 13, 14, and 15.
+- **Description:**  Stranded is a captivating 2D game developed using SDL in C, set in a world where nature takes its revenge. The protagonist, a wealthy businessman responsible for massive environmental pollution, finds himself shipwrecked on a mysterious island. The gods of Wind, Ocean, Forage, and the Goddess Mother Earth have orchestrated his predicament. To survive and atone for his actions, he must navigate the island, overcome various challenges, and restore the environment. Through this narrative, Stranded aims to raise awareness about the importance of environmental conservation and sustainability, aligning with Sustainable Development Goals (SDGs) 13 (Climate Action), 14 (Life Below Water), and 15 (Life on Land).
+
 - **Technologies:** C, SDL, Linux
-- **Year:** 2022-2023
+- **Year:** 2022-ongoing
 - **Repository:** [Link to the repository](https://github.com/yasminechahbani/stranded)
 
 ### Project 2: Binomi
-- **Description:** A website using the swipe feature to facilitate finding roommates. This project is within the theme of societal development and targets SDG 11.
+- **Description:**  Binomi is an innovative web application designed to streamline the process of finding roommates. Leveraging a swipe-based interface similar to popular dating apps, Binomi allows users to quickly browse and connect with potential roommates based on their preferences and needs. The platform aims to simplify the roommate search experience by integrating user-friendly features that match people based on criteria such as location, budget, and living habits. This project addresses societal development and aims to foster better living arrangements, aligning with Sustainable Development Goal (SDG) 11 (Sustainable Cities and Communities).
+
 - **Technologies:** HTML, CSS, JavaScript, React
 - **Year:** 2023-ongoing
-- **Repository:** [Link to the repository](https://github.com/yasminechahbani/binomi)
+- **Repository:** [Link to the repository]([https://github.com/yasminechahbani/binomi](https://github.com/azzizkhayat/Projetweb))
 
 ### Project 3: XTV
-- **Description:** A C++ Qt desktop app called XTV, which is a smart TV channel management application including AI modules like smart menu navigation using camera and finger gestures. This project targets SDGs 11 and 8.
-- **Technologies:** C++, Qt, OpenCV
+- **Description:**   XTV is a sophisticated desktop application developed in C++ using the Qt framework, designed for smart TV channel management. The application features advanced AI-driven modules that enhance user interaction by enabling smart menu navigation through camera and finger gesture recognition. XTV aims to offer an intuitive and seamless TV viewing experience by allowing users to control channels and access features with natural gestures. This project contributes to the advancement of smart technologies and digital inclusivity, addressing Sustainable Development Goals (SDGs) 11 (Sustainable Cities and Communities) and 8 (Decent Work and Economic Growth).
+
+- **Technologies:** C++, Qt,Python
 - **Year:** 2023-2024
-- **Repository:** [Link to the repository](https://github.com/yasminechahbani/xtv)
+- **Repository:** [Link to the repository]([https://github.com/yasminechahbani/xtv](https://github.com/yasminechahbani/SmartTvChannelManagement))
 
 ## Skills
 
