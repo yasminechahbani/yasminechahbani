@@ -34,19 +34,18 @@
 
 ## Projects
 
-- **[PiReadyProject](https://github.com/yasminechahbani/PiReadyProject)** — Raspberry Pi related project.
-- **[TEKUP-MINI-CTF](https://github.com/yasminechahbani/TEKUP-MINI-CTF)** — Mini CTF challenge repository.
-- **[write-ups-2014](https://github.com/yasminechahbani/write-ups-2014)** — CTF write-ups.
-- **Vehify** — Desktop & web apps with an AI chatbot (Gemini API), Twilio integration, and facial recognition; built with JavaFX & Symfony.
-- **Gestion Ticket CliniSys** — Full-stack ticket management system for a healthcare IT provider (74+ facilities); ASP.NET Core, Kanban, real-time search.
+- **[VehifyWeb](https://github.com/yasminechahbani/VehifyWeb)** — Desktop & web apps with an AI chatbot (Gemini API), Twilio integration, and facial recognition; built with JavaFX & Symfony.
+- **[V2_Ticket](https://github.com/yasminechahbani/V2_Ticket)** — Full-stack ticket management system for a healthcare IT provider (74+ facilities); ASP.NET Core, Kanban, real-time search.
+- **[SmartTvChannelManagement](https://github.com/yasminechahbani/SmartTvChannelManagement)** — XTV team management project: AI finger detection, Arduino RFID integration; Qt/C++.
+- **[Binomi-2eme-](https://github.com/yasminechahbani/Binomi-2eme-)** — Academic project.
 
 ## Skills
 
 **Programming:** C#, Java, Python, JavaScript, C/C++, PHP, SQL, Shell Scripting
-**Web & Frameworks:** ASP.NET Core MVC, EF Core, Symfony, RESTful APIs, JWT, AJAX, Spring
+**Web & Frameworks:** .NET, ASP.NET Core MVC, EF Core, Symfony, Spring, RESTful APIs, JWT, AJAX
 **Cybersecurity:** SIEM (Wazuh), IDS (Suricata), Threat Intelligence, Incident Response, SOAR, IAM, Firewall rules/implementation
 **Databases:** SQL Server, MySQL, Database Design
-**Tools:** Git, Visual Studio, Agile/Scrum, CI/CD, Qt, JavaFX, Arduino
+**Tools:** Git, Visual Studio, Agile/Scrum, DevOps, CI/CD, Qt, JavaFX, Arduino
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,js,html,css,linux,git,github,docker" alt="Tools and technologies" />
