@@ -15,22 +15,12 @@
 ## Certifications
 
 <p align="center">
-  <a href="YOUR_CCNA_CREDLY_BADGE_URL">
-    <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA credential — replace link with public Credly badge URL" />
-  </a>
   <a href="https://www.credly.com/badges/13ef1959-f636-4400-9731-5653ee684647/public_url">
     <img src="https://img.shields.io/badge/Cisco-CyberOps_Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CyberOps Associate credential" />
   </a>
 </p>
 
-<p align="center"><sub>Credential links point to my public Credly badges.</sub></p>
-
-<!-- OPTIONAL: Replace YOUR_CREDLY_USERNAME with the username from credly.com/users/YOUR_CREDLY_USERNAME -->
-<!--
-<p align="center">
-  <img src="https://credly-readme-stats.onrender.com/api/overview?username=YOUR_CREDLY_USERNAME" alt="Credly certifications" />
-</p>
--->
+<p align="center"><sub>Credential link points to my public Credly badge.</sub></p>
 
 ## Selected security work
 
@@ -42,12 +32,11 @@
 
 > Some implementations are private or confidential. Public material contains only safe documentation, synthetic examples, redacted visuals, and high-level architecture.
 
-## Public security labs
+## Projects
 
-- **SOC detection lab** — synthetic logs, sample detection logic, investigation notes. _(Planned — [YOUR_SOC_DETECTION_LAB_URL](YOUR_SOC_DETECTION_LAB_URL))_
-- **SOAR playbook examples** — fictional alerts, generic response workflows, dummy enrichment. _(Planned — [YOUR_SOAR_PLAYBOOK_EXAMPLES_URL](YOUR_SOAR_PLAYBOOK_EXAMPLES_URL))_
-- **Threat-intelligence lab** — harmless/sample data, enrichment concepts, confidence scoring. _(Planned — [YOUR_THREAT_INTEL_LAB_URL](YOUR_THREAT_INTEL_LAB_URL))_
-- **PiReadyProject** — existing public project. <!-- Replace with exact repository URL if different from https://github.com/yasminechahbani/PiReadyProject --> [PiReadyProject](https://github.com/yasminechahbani/PiReadyProject)
+- **[PiReadyProject](https://github.com/yasminechahbani/PiReadyProject)** — Raspberry Pi related project.
+- **[TEKUP-MINI-CTF](https://github.com/yasminechahbani/TEKUP-MINI-CTF)** — Mini CTF challenge repository.
+- **[write-ups-2014](https://github.com/yasminechahbani/write-ups-2014)** — CTF write-ups.
 
 ## Tools and technologies
 
@@ -62,19 +51,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yasminechahbani&show_icons=true&theme=tokyonight&hide_border=true" alt="Yasmine's GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminechahbani&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-</p>
-
-## Connect
-
-<p align="center">
-  <!-- Replace YOUR_LINKEDIN_URL with your public LinkedIn profile URL -->
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — replace with your profile URL" /></a>
-  <!-- Replace YOUR_EMAIL_ADDRESS with your contact email -->
-  <a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email — replace with your address" /></a>
-  <!-- Replace YOUR_CREDLY_PROFILE_URL with your public Credly profile URL -->
-  <a href="YOUR_CREDLY_PROFILE_URL"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly — replace with your profile URL" /></a>
-  <!-- Replace YOUR_CTF_PROFILE_URL with your TryHackMe or Hack The Box profile URL -->
-  <a href="YOUR_CTF_PROFILE_URL"><img src="https://img.shields.io/badge/CTF_Profile-212C42?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CTF profile — replace with your TryHackMe or HTB URL" /></a>
 </p>
 
 <p align="center"><sub>Turning raw alerts into useful, well-understood context — one investigation at a time.</sub></p>
