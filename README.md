@@ -7,10 +7,10 @@
 
 ## About me
 
-- Exploring and building in security operations (SOC), security orchestration and automation (SOAR), and threat intelligence.
-- Interested in CTFs and security-platform design, from alert triage to enrichment workflows.
-- Continuously learning in Linux, networking, automation, web security, and incident-response workflows.
-- Based in Tunisia.
+- 4th-year IT Engineering student at ESPRIT, Tunis, specializing in cybersecurity.
+- Hands-on experience with SIEM/SOAR tooling, threat intelligence, and full-stack development.
+- Building a simulated healthcare SOC covering network segmentation, SIEM, IDS, SOAR playbooks, IAM/RBAC, and threat intel feeds.
+- Securinets TEKUP member (cybersecurity club) since 2023, based in Tunisia.
 
 ## Certifications
 
@@ -26,9 +26,9 @@
 
 | Area | Focus | Public evidence |
 |---|---|---|
-| SOC platform | Alert triage, investigation workflows, dashboards, reporting | Sanitized case study, high-level diagram, and synthetic demonstration |
-| SOAR platform | Enrichment, response workflow design, automation concepts, orchestration | Sanitized case study, high-level diagram, and synthetic demonstration |
-| Threat-intelligence platform | Intelligence lifecycle, enrichment, correlation, analyst context | Sanitized case study, high-level diagram, and synthetic demonstration |
+| Threat Intelligence Platform — Healthcare SOC | Simulated SOC: VLAN segmentation, SIEM (Wazuh), IDS (Suricata), SOAR playbooks, IAM/RBAC, security auditing, MISP threat-intel feeds with AI-driven risk scoring | Sanitized case study, high-level diagram, and synthetic demonstration |
+| SOAR & incident response | Enrichment, response workflow design, automation concepts, orchestration | Sanitized case study, high-level diagram, and synthetic demonstration |
+| Threat intelligence | Intelligence lifecycle, enrichment, correlation, analyst context | Sanitized case study, high-level diagram, and synthetic demonstration |
 
 > Some implementations are private or confidential. Public material contains only safe documentation, synthetic examples, redacted visuals, and high-level architecture.
 
@@ -37,20 +37,33 @@
 - **[PiReadyProject](https://github.com/yasminechahbani/PiReadyProject)** — Raspberry Pi related project.
 - **[TEKUP-MINI-CTF](https://github.com/yasminechahbani/TEKUP-MINI-CTF)** — Mini CTF challenge repository.
 - **[write-ups-2014](https://github.com/yasminechahbani/write-ups-2014)** — CTF write-ups.
+- **Vehify** — Desktop & web apps with an AI chatbot (Gemini API), Twilio integration, and facial recognition; built with JavaFX & Symfony.
+- **Gestion Ticket CliniSys** — Full-stack ticket management system for a healthcare IT provider (74+ facilities); ASP.NET Core, Kanban, real-time search.
 
-## Tools and technologies
+## Skills
+
+**Programming:** C#, Java, Python, JavaScript, C/C++, PHP, SQL, Shell Scripting
+**Web & Frameworks:** ASP.NET Core MVC, EF Core, Symfony, RESTful APIs, JWT, AJAX, Spring
+**Cybersecurity:** SIEM (Wazuh), IDS (Suricata), Threat Intelligence, Incident Response, SOAR, IAM, Firewall rules/implementation
+**Databases:** SQL Server, MySQL, Database Design
+**Tools:** Git, Visual Studio, Agile/Scrum, CI/CD, Qt, JavaFX, Arduino
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,js,html,css,linux,git,github,docker" alt="Tools and technologies" />
 </p>
-
-> Icons represent tools I use or am actively learning; I update this list as my work evolves.
 
 ## GitHub activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yasminechahbani&show_icons=true&theme=tokyonight&hide_border=true" alt="Yasmine's GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminechahbani&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+</p>
+
+## Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/yasminechahbani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:yasmine.chahbani@esprit.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center"><sub>Turning raw alerts into useful, well-understood context — one investigation at a time.</sub></p>
